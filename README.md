@@ -1,2 +1,1 @@
-Sombrero: the Mexican Hat
-=========================
+SombreroJS: the Mexican Hat
